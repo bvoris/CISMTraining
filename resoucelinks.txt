@@ -3,3 +3,6 @@ https://www.isaca.org/credentialing/cism
 
 COBIT
 https://www.isaca.org/resources/cobit
+
+COBIT Toolkit
+https://www.isaca.org/-/media/files/isacadp/project/isaca/resources/cobit-2019-toolkit_v12.7z
