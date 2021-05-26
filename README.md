@@ -7,6 +7,9 @@ https://www.isaca.org/credentialing/cism
 ISACA.ORG CISM Recommended training: <BR />
 https://www.isaca.org/credentialing/cism/prepare-for-the-cism-exam
 
+ISACA.ORG CISM Schedule Reference: <BR />
+https://isacaavailability.psiexams.com/
+
 These are my notes for CISM Training. <BR />
 
 <A HREF="https://github.com/bvoris/CISMTraining/blob/main/CISM%20Notes.xlsx"> CISM Notes </A>
