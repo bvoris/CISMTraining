@@ -1,9 +1,11 @@
 # CISMTraining
 CISM Training
+ISACA.ORG CISM Recommended training: <BR />
+https://www.isaca.org/credentialing/cism/prepare-for-the-cism-exam
 
 These are my notes for CISM Training. <BR />
 
-<A HREF="https://github.com/bvoris/CISMTraining/blob/main/CISM%20Notes.xlsx"> CISM Notes </A><BR />
+<A HREF="https://github.com/bvoris/CISMTraining/blob/main/CISM%20Notes.xlsx"> CISM Notes </A>
 
 Recommendation for CISM Exam:<BR />
 
