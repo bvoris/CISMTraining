@@ -7,8 +7,9 @@ These are my notes for CISM Training. <BR />
 
 Recommendation for CISM Exam:<BR />
 
-Read the answers to the questions first<BR />
-Once you've read the answer's eliminate ANY answers that potentially compromise LIFE.<BR />
+Read the answers to the questions FIRST<BR />
+Once you've read all of the answers, read the question SECOND.<BR />
+Once you've read the answers and the question, eliminate ANY answers that potentially compromise LIFE.<BR />
 If LIFE is not a factor, eliminate ANY answers that compromise ETHICS.<BR />
 If LIFE and ETHICS are not a factor look for key indicator words like ALWAYS and/or EVERYONE.<BR />
 If LIFE, ETHICS, key indicators ALWAYS and/or EVERYONE are not a factor than select the answer that is BEST FOR THE ORGANIZATION.<BR />
